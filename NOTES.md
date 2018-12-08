@@ -24,7 +24,7 @@ This project has been a fun experiment and worked rather well.
 
 The beautiful part is writing the bank interactors, that inherit from HistoricalBank.  This inheritance allows switching the dataset out easily with anything.
 
-The dependency of the Money gem logic can be extracted out into its library is required.
+The dependency of the Money gem logic can be extracted out into its library as required.
 
 I would be very tempted to extract the Money extensions into a new project and ship it as a production project.
 
